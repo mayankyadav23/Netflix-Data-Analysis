@@ -52,7 +52,7 @@ Some of the SQL queries we explored:
 ### Visualization:
 We used tools like **Tableau** and **Power BI** to visualize the findings. Here's an example of how the data looks post-normalization:
 
-![Data Distribution](https://github.com/your-username/your-repo/images/data_distribution.png)
+![Data Distribution](https://github.com/mayankyadav23/Netflix-Data-Analysis/blob/main/Netflix.twbx)
 
 ## 💡 Why Normalize Your Database?
 
@@ -71,4 +71,4 @@ Normalization is crucial for:
 ### Steps:
 1. **Clone the repository** to your local environment:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/mayankyadav23/Netflix-Data-Analysis.git
