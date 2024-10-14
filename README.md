@@ -27,6 +27,16 @@ We created a unified view by selecting only the common records from both tables,
 3. **Improved Query Performance**: Faster and more efficient queries through proper indexing and structure.
 4. **Enhanced Security**: More controlled access to sensitive information.
 
+### Database Design
+Database design is the organization of data according to a database model. The designer determines what data must be stored and how the data elements interrelate.
+
+After cleaning the Netflix data in Part 1, we obtained two tables - 'titles' containing information about unique shows/movies and 'credits' containing information about the castings in different shows/movies. The data is now distributed in these two tables.
+![Screenshot 2024-10-14 101220](https://github.com/user-attachments/assets/cafcb93f-e482-47dd-ab89-1e29f694afcf)
+
+When we counted the unique shows in each of the tables (since both have id column which corresponds to unique shows), we found out that the number of unique shows in credits table is higher than the titles table.
+![Screenshot 2024-10-14 101235](https://github.com/user-attachments/assets/ab8a7f75-9845-44ff-8b11-f8c62439ba47)
+
+
 ### Process Overview:
 1. **Conceptual Data Model**: High-level view of key entities and relationships.
 ![image](https://github.com/user-attachments/assets/c98e5287-9ca7-423d-9c3d-57906969fec9)
