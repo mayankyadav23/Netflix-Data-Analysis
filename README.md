@@ -52,7 +52,7 @@ Some of the SQL queries we explored:
 ### Visualization:
 We used tools like **Tableau** and **Power BI** to visualize the findings. Here's an example of how the data looks post-normalization:
 
-![Data Distribution](https://github.com/mayankyadav23/Netflix-Data-Analysis/blob/main/Netflix.twbx)
+![Data Distribution](https://github.com/mayankyadav23/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis%20Dashboard.png)
 
 ## 💡 Why Normalize Your Database?
 
